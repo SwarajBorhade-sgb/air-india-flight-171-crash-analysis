@@ -1,6 +1,6 @@
 # ✈️ Air India Flight 171 Crash Analysis – Power BI + SQL Project
 
-This project analyzes the tragic crash of **Air India Flight 171** and visualizes key data insights using **Power BI** and **SQL**. It simulates a real-world aviation disaster case study and highlights emergency response patterns, casualty stats, and demographic breakdowns.
+This project analyzes the tragic crash of **Air India Flight 171** and visualizes key data insights using **Power BI** and **SQL**. It simulates a real-world aviation disaster case study, highlighting emergency response patterns, casualty statistics, and demographic breakdowns.
 
 ---
 
@@ -36,7 +36,7 @@ To simulate a real-world **emergency response analytics case** using publicly av
 |------|-------------|
 | [`Air_India_Flight_171_Crash_Analysis_Dashboard.pdf`](./Air_India_Flight_171_Crash_Analysis_Dashboard.pdf) | Final dashboard PDF |
 | [`air_india_crash_analysis.sql`](./air_india_crash_analysis.sql) | SQL file for creating and querying passenger, incident, and aircraft data |
-| `.pbix` file | Power BI file (available on request or in repo if public) |
+
 
 ---
 
