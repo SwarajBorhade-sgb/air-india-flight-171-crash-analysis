@@ -1,34 +1,67 @@
-# Air India Flight 171 Crash Analysis – Power BI Dashboard
+# ✈️ Air India Flight 171 Crash Analysis – Power BI + SQL Project
 
-This project presents a crash analysis of Air India Flight 171, visualized using Power BI. The dashboard highlights casualty breakdown, survivor stats, crew/passenger ratios, and timeline of emergency response.
-
-## 📊 Dashboard Highlights
-- Fatality rate: 99.59%
-- Total onboard: 242 (230 passengers, 12 crew)
-- Nationalities involved: India, UK, Portugal, Canada
-- Emergency events timeline visualized
-- Breakdown by casualty type (fatalities onboard/ground, injuries)
-
-## 🛠 Tools Used
-- Power BI Desktop
-- Excel (for data cleaning)
-- PDF for report export
-
-## 🔍 Objective
-To simulate a real-world emergency response analysis scenario using public aviation crash data and provide meaningful visual insights for stakeholders and investigation teams.
-
-## 📁 Files
-- `Air_India_Flight_171_Crash_Analysis_Dashboard.pdf` – Dashboard PDF
-- `.pbix` file (available upon request or in repo)
-## Dashboard Preview
-![Dashboard Preview]![image](https://github.com/user-attachments/assets/e5420204-eb97-434f-bff0-a37f0ca970b9)
-
-## 🧠 Skills Demonstrated
-- Power BI data modeling
-- Dashboard design and storytelling
-- Aggregation and KPI visualization
-- Timeline analysis for operations response
+This project analyzes the tragic crash of **Air India Flight 171** and visualizes key data insights using **Power BI** and **SQL**. It simulates a real-world aviation disaster case study and highlights emergency response patterns, casualty stats, and demographic breakdowns.
 
 ---
 
-**Note:** This is a simulated case project for demonstration and portfolio purposes.
+## 📊 Dashboard Highlights
+- **Fatality Rate**: 99.59%
+- **Total Onboard**: 242 (230 passengers, 12 crew)
+- **Casualties**: All onboard perished
+- **Nationalities Involved**: India, UK, Portugal, Canada
+- **Event Timeline**: Emergency response and crash sequence visualized
+- **Breakdown**:
+  - Onboard fatalities
+  - Ground impact casualties
+  - Injuries by seat class and nationality
+
+---
+
+## 🛠 Tools & Technologies Used
+- **Power BI Desktop** – for dashboard building
+- **SQL (PostgreSQL/MySQL compatible)** – for passenger/incident data joins and analysis
+- **Excel** – for data cleaning and structuring
+- **PDF** – exported dashboard
+
+---
+
+## 🎯 Objective
+To simulate a real-world **emergency response analytics case** using publicly available aviation crash data. The goal is to create a data-driven dashboard and draw meaningful insights for stakeholders, investigators, and crisis analysts.
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| [`Air_India_Flight_171_Crash_Analysis_Dashboard.pdf`](./Air_India_Flight_171_Crash_Analysis_Dashboard.pdf) | Final dashboard PDF |
+| [`air_india_crash_analysis.sql`](./air_india_crash_analysis.sql) | SQL file for creating and querying passenger, incident, and aircraft data |
+| `.pbix` file | Power BI file (available on request or in repo if public) |
+
+---
+
+## 🧠 Key Skills Demonstrated
+- Power BI Data Modeling & KPI Visualization  
+- SQL Joins, Aggregations & Filtering  
+- Data Storytelling with Emergency Timelines  
+- Aviation Disaster Simulation for Portfolio Use  
+
+---
+
+## 🖼 Dashboard Preview
+
+> ![Dashboard Preview](https://github.com/user-attachments/assets/e5420204-eb97-434f-bff0-a37f0ca970b9)
+
+---
+
+## ⚠️ Disclaimer
+This is a **simulated portfolio project** based on public historical aviation crash data. It is designed for **educational and demonstrative purposes only** and does not represent any official report.
+
+---
+
+## 📬 Contact
+If you’d like access to the `.pbix` file or have any questions:
+
+- **Email**: [borhadeswaraj01@gmail.com](mailto:borhadeswaraj01@gmail.com)
+- **LinkedIn**: [Swaraj Borhade](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@SwarajBorhade-sgb](https://github.com/SwarajBorhade-sgb)
